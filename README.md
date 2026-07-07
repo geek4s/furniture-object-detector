@@ -1,5 +1,4 @@
 # Furniture Object Detection using YOLOv11
-# 🪑 Furniture Object Detection using YOLOv11
 
 An AI-powered object detection system that identifies common furniture items such as chairs, sofas, tables, beds, lamps, closets, and curtains from images using the YOLOv11 object detection model.
 
